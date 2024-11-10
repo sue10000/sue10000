@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yiyao(Sue)
 - 👀 I’m interested in data analysis, machine learning
 - 🌱 I’m currently learning data science at the University of Rochester
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to finding a full-time job in data field
 - 📫 Please reach me at ytao15@ur.rochester.edu
 - 😄 Pronouns: she/her/hers
 
